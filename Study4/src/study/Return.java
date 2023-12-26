@@ -1,6 +1,7 @@
 package study;
 
 public class Return {
+<<<<<<< HEAD
 	void printGugudna(int dan) {
 		if(!(2 <= dan && dan <= 9))
 			return;
@@ -19,4 +20,7 @@ public class Return {
 		else 
 			return b;//해결법
 	} 
+=======
+
+>>>>>>> refs/remotes/origin/master
 }
